@@ -1,0 +1,45 @@
+.w-card{
+    width: 120px;
+    height: 60px;
+    text-align: center;
+    background-color: rgb(59, 59, 59);
+    color: rgb(255, 255, 255);
+}
+
+.w-about-custom{
+    width: 80%;
+}
+
+.h1-custom{
+    color: rgb(1, 208, 245);
+    font-size: 2rem;
+}
+
+.bg-about{
+    background-color: rgb(43, 43, 43);
+    height: 900px;
+}
+
+.hover-custom:hover{
+    background-color: rgb(46, 46, 46);
+    overflow: hidden;
+    color: rgb(1, 208, 245);
+}
+
+.card-font-custom{
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .w-card{
+        width: 130px;
+        height: 70px;
+    }
+}
+
+@media (min-width: 992px) {
+    .w-about-custom{
+        width: 55%;
+    }
+}
