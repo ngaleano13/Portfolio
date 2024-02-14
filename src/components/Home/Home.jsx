@@ -6,7 +6,7 @@ import { TypeAnimation } from "react-type-animation";
 
 export const Home = () => {
   return (
-    <div className="vh-nav mt-nav d-flex flex-column-reverse flex-md-row justify-content-center align-items-center text-light gap-1">
+    <div className="vh-nav d-flex flex-column-reverse flex-md-row justify-content-center align-items-center text-light gap-1">
       <div className="p-4 text-center text-md-start ">
         <h1 className="mb-4">
           Hola, soy

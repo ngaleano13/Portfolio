@@ -1,5 +1,6 @@
 .vh-nav{
-    height: 800px;
+    height: max(calc(100vh - 56px), 800px);
+    width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),url('../../../public/home.jpg');
 }
 
