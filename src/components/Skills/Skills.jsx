@@ -2,7 +2,7 @@ import { skills } from "./skills.js";
 
 export const Skills = () => {
     return(
-        <div>
+        <div id="skills" className="bg-about d-flex flex-column justify-content-center align-items-center text-light gap-5 py-5">
         <h2 className="h1-custom">Tecnologias</h2>
         <div className="d-flex flex-wrap justify-content-center align-items-center gap-3 mx-2 w-about-custom">
             {skills.map((skill, index)=>(
