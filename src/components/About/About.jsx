@@ -10,7 +10,7 @@ export const About = () => {
                 Gracias a esto, pude obtener mas conocimientos y mejorar mis habilidades</h5>
             </div>
             <h2 className="h1-custom">Cursos y Estudios</h2>
-            <div className="d-flex flex-wrap justify-content-center align-items-center gap-5">
+            <div className="d-flex flex-wrap justify-content-center align-items-center gap-5 w-xl-card">
                 {courses.map((course, index)=>(
                 <CardEduc title={course.title} time={course.time} text={course.text} certificates={course.certificates}
                 key={index}></CardEduc>
