@@ -6,19 +6,19 @@ import './skills.css'
 export const Skills = () => {
     return(
         <div id="skills" className="bg-skills d-flex flex-column justify-content-center align-items-center text-light gap-5 py-5">
-        <h2 className="h1-custom">Tecnologias</h2>
+        <h2 className="h1-custom text-center">Tecnologias</h2>
         <div className="d-flex flex-wrap justify-content-center align-items-center gap-3 mx-2 w-about-custom">
             {skills.map((skill, index)=>(
                 <Cards name={skill.name} icon={skill.icon} key={index}></Cards>
             ))}
         </div>
-        <h2 className="h1-custom">Tecnologias que estoy aprendiendo</h2>
+        <h2 className="h1-custom text-center">Tecnologias que estoy aprendiendo</h2>
         <div className="d-flex flex-wrap justify-content-center align-items-center gap-3 mx-2 w-about-custom">
             {learnSkills.map((skill, index)=>(
                 <Cards name={skill.name} icon={skill.icon} key={index}></Cards>
             ))}
         </div>
-        <h2 className="h1-custom">Aptitudes</h2>
+        <h2 className="h1-custom text-center">Aptitudes</h2>
         <div className="d-flex flex-wrap justify-content-center align-items-center gap-3 mx-2 w-about-custom">
             {softSkills.map((skill, index)=>(
                 <Cards name={skill.name} icon={skill.icon} key={index}></Cards>
