@@ -28,7 +28,7 @@ export const Home = () => {
           organizada, apasionada por la programación.
         </p>
         <a href={CV} className="btn btn-secondary btn-custom mt-3 p-3">
-          Download CV
+          Descargar CV
         </a>
       </div>
       <div className="p-4">

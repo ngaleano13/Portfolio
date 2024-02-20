@@ -17,7 +17,7 @@ export const Navbar = () => {
               <a className="nav-link mx-2" href="#skills"><i className="fa-solid fa-list pe-3"></i>Habilidades</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link mx-2" href=""><i className="fa-solid fa-folder-open pe-3"></i>Proyectos</a>
+                <a className="nav-link mx-2" href="#projects"><i className="fa-solid fa-folder-open pe-3"></i>Proyectos</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link mx-2" href=""><i className="fa-solid fa-circle-user pe-3"></i>Contacto</a>

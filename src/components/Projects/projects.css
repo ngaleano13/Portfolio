@@ -1,0 +1,13 @@
+.w-card-proj{
+    background-color: rgb(56, 56, 56);
+    color: white;
+    width: min(800px, 80%);
+}
+
+.color-custom{
+    color: rgb(1, 208, 245);
+}
+
+.bg-project{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),url('../../../public/home.jpg');
+}

@@ -1,4 +1,4 @@
-import '../About/about.css';
+import './about.css';
 import { courses } from "./courses.js";
 
 export const About = () => {
