@@ -1,7 +1,7 @@
 import CV from "../../../public/NicoGaleanoCV.pdf";
 import Foto from "../../../public/foto_ng.jpg";
 
-import "../Home/home.css";
+import "./home.css";
 import { TypeAnimation } from "react-type-animation";
 
 export const Home = () => {

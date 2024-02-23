@@ -1,0 +1,5 @@
+export const Projs = [
+    {title: 'AsclepioMED', text: 'Este es un proyecto realizado en la capacitacion de la Fundacion Pescar junto con mi equipo, en este proyecto buscamos brindarles informacion y la obtencion de turnos a los usuarios de varias obras sociales. Utilizamos, React, NodeJS, MongoDB', img: '../../../public/asclepioimg.png', LDeploy: 'https://asclepiomed.netlify.app/', LGitHub: 'https://github.com/ngaleano13/Asclepiomed', LDemo: ''},
+    {title: 'RPA - Control de Stock', text: 'En este proyecto realizado en Blue Prism, buscaba automatizar el control de cada mercaderia en la empresa, utilizando excel y outlook para informar el stock', img: '../../../public/bluep.png', LDeploy: '', LGitHub: 'https://github.com/ngaleano13/RPA-Stock', LDemo: ''},
+    {title: 'RPA - Presentismo', text: 'En este proyecto, realice la automatizacion de llenado de formularios de presentimos en Google Forms, indicando el nombre completo, junto con el sector y otras cosas mas.', img: '../../../public/bluep.png', LDeploy: '', LGitHub: 'https://github.com/ngaleano13/RPA-Presentismo', LDemo: ''}
+]
