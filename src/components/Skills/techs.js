@@ -8,7 +8,7 @@ export const skills = [
     {name: 'Bootstrap', icon:"/icon/bootstrap.png"},
     {name: 'MongoDB', icon:"/icon/mongo.png"},
     {name: 'GIT', icon:"/icon/git.png"},
-    {name: 'Java', icon:"/public/icon/java.png"},
+    {name: 'Java', icon:"/icon/java.png"},
 ]
 
 export const learnSkills = [
@@ -23,7 +23,7 @@ export const learnSkills = [
 export const softSkills = [
     {name: 'Flexibilidad', icon:"/icon/flex.png"},
     {name: 'Paciencia', icon:"/icon/clock.png"},
-    {name: 'Aprendizaje', icon:"/aprendizaje.png"},
+    {name: 'Aprendizaje', icon:"/icon/aprendizaje.png"},
     {name: 'Compañerismo', icon:"/icon/teamwork.png"},
 ]
 
