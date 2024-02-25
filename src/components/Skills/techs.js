@@ -1,14 +1,14 @@
 export const skills = [
     {name: 'HTML', icon:"../../../public/icon/html.png"},
     {name: 'CSS', icon:"../../../public/icon/css.png"},
-    {name: 'JavaScript', icon:"../../../public/icon/js.png"},
-    {name: 'React', icon:"../../../public/icon/react.png"},
-    {name: 'TypeScript', icon:"../../../public/icon/ts.png"},
-    {name: 'NodeJS', icon:"../../../public/icon/node.png"},
-    {name: 'Bootstrap', icon:"../../../public/icon/bootstrap.png"},
-    {name: 'MongoDB', icon:"../../../public/icon/mongo.png"},
-    {name: 'GIT', icon:"../../../public/icon/git.png"},
-    {name: 'Java', icon:"../../../public/icon/java.png"},
+    {name: 'JavaScript', icon:"/../public/icon/js.png"},
+    {name: 'React', icon:"/icon/react.png"},
+    {name: 'TypeScript', icon:"/icon/ts.png"},
+    {name: 'NodeJS', icon:"/icon/node.png"},
+    {name: 'Bootstrap', icon:"/icon/bootstrap.png"},
+    {name: 'MongoDB', icon:"/icon/mongo.png"},
+    {name: 'GIT', icon:"/icon/git.png"},
+    {name: 'Java', icon:"/public/icon/java.png"},
 ]
 
 export const learnSkills = [
