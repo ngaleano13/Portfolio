@@ -1,4 +1,4 @@
-import CV from "../../../public/NicoGaleanoCV.pdf";
+import CV from "../../../public/NicolasGaleanoCV.pdf";
 import Foto from "../../../public/foto_ng.jpg";
 
 import "./home.css";
