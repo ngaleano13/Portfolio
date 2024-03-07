@@ -3,7 +3,6 @@ export const skills = [
     {name: 'CSS', icon:"/icon/css.png"},
     {name: 'JavaScript', icon:"/icon/js.png"},
     {name: 'React', icon:"/icon/react.png"},
-    {name: 'TypeScript', icon:"/icon/ts.png"},
     {name: 'NodeJS', icon:"/icon/node.png"},
     {name: 'Bootstrap', icon:"/icon/bootstrap.png"},
     {name: 'MongoDB', icon:"/icon/mongo.png"},
@@ -12,6 +11,7 @@ export const skills = [
 ]
 
 export const learnSkills = [
+    {name: 'TypeScript', icon:"/icon/ts.png"},
     {name: 'Python', icon:"/icon/python.png"},
     {name: 'MySQL', icon:"/icon/mysql.png"},
     {name: 'Django', icon:"/icon/django.png"},
